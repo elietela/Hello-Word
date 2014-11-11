@@ -1,4 +1,6 @@
 Hello-Word
 ==========
 
-Como criar um novo repositório
+Como criar um novo repositório.
+
+=)
